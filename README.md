@@ -7,12 +7,12 @@ Package installation
 ------------
 
 ``` r
-devtools::install_github("mpio-be/wadeR")
+devtools::install_github("ornitho-logics/wadeR")
 ```
 
 ### Previous versions
 ``` r
 # tuned to work with Red Phalarope as main study species. 
-devtools::install_github("mpio-be/wadeR@2019")
+devtools::install_github("ornitho-logics/wadeR@2019")
 
 ```
